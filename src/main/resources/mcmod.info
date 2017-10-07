@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "visualtrade",
+  "name": "Visual Trade",
+  "description": "Visualize the villagers' transactions.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Aye10032"],
+  "credits": "guys in TopologyCraft",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
